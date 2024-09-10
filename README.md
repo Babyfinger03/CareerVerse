@@ -2,17 +2,9 @@
 
 Career Verse is a fun and helpful website that lets you discover different careers. It has two  features:
 
-## 1. "A Day in the Life" Simulator
 
-Ever wondered what it's like to be a doctor, chef, or astronaut? This feature lets you experience a day in any job you choose! It's like a game where you:
 
-- Pick a career you're curious about
-- Make choices throughout a typical day in that job
-- See how your decisions affect your work day
-
-It's a great way to get a feel for different jobs and see if they might be right for you!
-
-## 2. Personalized Career Mind Map Maker
+## . Personalized Career Mind Map Maker
 
 This tool creates a custom roadmap for your dream career. Here's how it works:
 
